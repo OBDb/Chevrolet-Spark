@@ -1,0 +1,8 @@
+command_id: 241.641.225008
+test_cases:
+- expected_values:
+    SPARK_TP_RL_241: 209
+  response: 641056250080D10
+- expected_values:
+    SPARK_TP_RL_241: 211.75
+  response: 641056250080D3C

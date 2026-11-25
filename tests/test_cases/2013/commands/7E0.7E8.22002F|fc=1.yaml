@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22002F|fc=1
+test_cases:
+- expected_values:
+    SPARK_FLI: 81.96078
+  response: 7E80462002FD1
+- expected_values:
+    SPARK_FLI: 83.52941
+  response: 7E80462002FD5

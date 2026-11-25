@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220010|fc=1
+test_cases:
+- expected_values:
+    SPARK_MAF: 2.01
+  response: 7E80562001000C9
+- expected_values:
+    SPARK_MAF: 17.16
+  response: 7E80562001006B4
