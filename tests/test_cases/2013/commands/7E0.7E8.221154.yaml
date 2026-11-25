@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    SPARK_EOT_CALC: 79
+  response: '7E80462115477'
+- expected_values:
+    SPARK_EOT_CALC: 92
+  response: '7E80462115484'

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22000D
+test_cases:
+- expected_values:
+    SPARK_VSS: 1
+  response: 7E80462000D01
+- expected_values:
+    SPARK_VSS: 36
+  response: 7E80462000D24

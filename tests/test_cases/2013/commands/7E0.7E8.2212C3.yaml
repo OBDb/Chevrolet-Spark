@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    SPARK_INJECTOR_DUTY_CYCLE_BANK_1: 2.805
+  response: 7E8056212C300BB
+- expected_values:
+    SPARK_INJECTOR_DUTY_CYCLE_BANK_1: 8.88
+  response: 7E8056212C30250

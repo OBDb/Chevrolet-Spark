@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.220042
+test_cases:
+- expected_values:
+    SPARK_M_CTRL_MODULE_V: 12.561
+  response: '7E8056200423111'
+- expected_values:
+    SPARK_M_CTRL_MODULE_V: 14.428
+  response: 7E805620042385C

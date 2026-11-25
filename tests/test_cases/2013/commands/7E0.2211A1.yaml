@@ -1,0 +1,8 @@
+command_id: 7E0.2211A1
+test_cases:
+- expected_values:
+    SPARK_RUNTM: 47
+  response: 7E8056211A1002F
+- expected_values:
+    SPARK_RUNTM: 669
+  response: 7E8056211A1029D

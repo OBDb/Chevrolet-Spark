@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221145
+test_cases:
+- expected_values:
+    SPARK_HEATED_OXYGEN_SENS: 170
+  response: 7E804621145AA
+- expected_values:
+    SPARK_HEATED_OXYGEN_SENS: 184
+  response: 7E804621145B8
